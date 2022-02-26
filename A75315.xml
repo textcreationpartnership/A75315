@@ -1,0 +1,195 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The anatomie of the French and Spanish faction. With a full discovery of who they are; and what they have done, from before the beginning of King Iames his raigne unto this present. Declaring in particulars, how the many miseries and the calamities which we have, and do indure by blood, rapine, and many insupportable impositions, have proceeded directly from them, seconded by the ambitious spirits of the bishops. Wherein also all our grievances, and their subtle and horrible plots are instanced; to give a more full and ample satisfaction unto all. Published according to the order of Parliament.</title>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1644</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 24 KB of XML-encoded text transcribed from 9 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A75315</idno>
+            <idno type="STC">Wing A3060</idno>
+            <idno type="STC">Thomason E35_29</idno>
+            <idno type="STC">ESTC R20722</idno>
+            <idno type="EEBO-CITATION">99866288</idno>
+            <idno type="PROQUEST">99866288</idno>
+            <idno type="VID">118555</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A75315)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 118555)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 6:E35[29])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The anatomie of the French and Spanish faction. With a full discovery of who they are; and what they have done, from before the beginning of King Iames his raigne unto this present. Declaring in particulars, how the many miseries and the calamities which we have, and do indure by blood, rapine, and many insupportable impositions, have proceeded directly from them, seconded by the ambitious spirits of the bishops. Wherein also all our grievances, and their subtle and horrible plots are instanced; to give a more full and ample satisfaction unto all. Published according to the order of Parliament.</title>
+               </titleStmt>
+               <extent>[2], 13, [1] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by Bernard Alsop,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1644.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The words "French and Spanish" are to the left of a pair of brackets on title page, with the word "faction" to the right.</note>
+                  <note>Annotation on Thomason copy: the 4 in the imprint date is crossed out and altered to 1643; "march 9th 1643".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Great Britain --  Politics and government --  1603-1714 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2010-07</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2010-07</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Sampled and proofread</change>
+         <change>
+            <date>2010-09</date>
+            <label>Ali Jakobson</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:118555:1" rendition="simple:additions"/>
+            <p>THE ANATOMIE <hi>OF THE</hi> FRENCH And SPANISH FACTION.</p>
+            <p>With a full Diſcovery of who they are; and what they have done, from before the beginning of King <hi>Iames</hi> his Raigne unto this preſent.</p>
+            <p>Declaring in particulars, how the many miſe<g ref="char:EOLhyphen"/>ries and the calamities which we have, and do indure by Blood, Rapine, and many inſupportable Impoſitions, have proceeded directly from them, ſeconded by the ambitious Spirits of the Biſhops.</p>
+            <p>Wherein alſo all our grievances, and their ſubtle and horrible Plots are inſtanced; to give a more full and ample ſatisfaction unto all.</p>
+            <p>
+               <hi>Publiſhed according to the Order of Parliament.</hi>
+            </p>
+            <p>
+               <hi>LONDON.</hi> Printed by <hi>Bernard Alſop.</hi> 1644.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb n="3" facs="tcp:118555:2"/>
+            <head>THE ANATOMIE OF THE <hi>FRENCH</hi> and <hi>SPANISH</hi> Faction.</head>
+            <p>
+               <seg rend="decorInit">B</seg>Efore the <hi>Norman</hi> Conqueſt, the <hi>French</hi> looked long upon the affaires of <hi>Eng<g ref="char:EOLhyphen"/>land</hi> with a greedy eye, and in thoſe innocent times maintained a partie here in <hi>England</hi> to make good their Faction. The <hi>Spaniards,</hi> as they are more grave in their deportment, ſo they are more retired in their Coun<g ref="char:EOLhyphen"/>ſailes; and being then alwayes in Warres, either to eſtabliſh or increaſe their more VVeſterne territories, had hardly the leiſure to think on <hi>England,</hi> untill the Allyance of King <hi>Phi<g ref="char:EOLhyphen"/>lip</hi> with Queen <hi>Mary;</hi> ſince which time, being taken either with the wealth or the pleaſure of this Iſle, they have alwaies either openly by warre, or privately by policie, been indu<g ref="char:EOLhyphen"/>ſtrious either to aſſault it or betray it.</p>
+            <p>
+               <pb n="2" facs="tcp:118555:3"/>I will not wipe off the duſt of antiquity from the ſtory of the French, to repreſent unto you, what were the deſignes which many yeares ſince they nouriſhed to unite this King<g ref="char:EOLhyphen"/>dome unto France, neither will I ravell out your expectation or the time in any diſcourſe upon the Spaniard more then what ſhall concern our preſent purpoſe, which is to declare unto you, how the French and Spaniſh for theſe late yeares have deſperately conjoyned into one reſolve of miſchiefe for the ſubverting of the Proteſtant Religion, and the ruin of this Kingdome, which was of late the envy, and is now become the pitty and the aſtoniſhment of Chriſtendome.</p>
+            <p>Yet before I arrive unto their latter practiſes, on which I chiefly would inſiſt, it will be worth your obſervation to conſider how eagerly both nations did ambiate the marriage of the renowned Queen <hi>Elizabeth,</hi> who alwayes overcame her enemies and her Sex. The firſt who did court her in the way of marriage, was <hi>Don Iohn de Auſtria</hi> thinking thereby to reduce our Iſland and Religion to the Spaniſh Principles, but the Queen who knew very well before, what was the am<g ref="char:EOLhyphen"/>bition and the arts of Spaine could no wayes bee induced to heare of that illegitimate Prince; The ſecond was the Duke of <hi>Alenſon</hi> brother to <hi>Henry</hi> the third, then King of France, (a gallant Gentleman indeed) and who, whereſoever he came did winne upon the hearts of all by his valour and his courte<g ref="char:EOLhyphen"/>ſie, but as the Kingdome was then bleſſed in a brave Queen, ſo was the Queen bleſſed with as brave a Counſell, and that marriage by reaſon of the diverſity in religion, and many conſiderations of State being alſo rejected, the Duke retur<g ref="char:EOLhyphen"/>ned into Flanders where either by greife or poyſon, he died ſtrangely in the flower of his Age, of an iſſue of blood, which abundantly came from him, out of all the paſſages of his bodie.</p>
+            <p>
+               <pb n="3" facs="tcp:118555:3"/>In the ſame manner alſo died his Elder Brother <hi>Charles</hi> the eight King of France, neither did his other brother <hi>Henry</hi> the third, (who before hee was King of France ſwayed the Imperiall Scepter of Polonia) deſcend unto his grave by a naturall or timely death, ſo true is that of the Satyriſt.</p>
+            <q>
+               <l>
+                  <hi>Ad generum Cereris ſine caede &amp; ſanguine pauci</hi>
+               </l>
+               <l>
+                  <hi>Deſcendunt Reges et ſicca morte tyranni.</hi>
+               </l>
+            </q>
+            <q>
+               <l>By a dry death, without ſome bloody end</l>
+               <l>Few Kings to <hi>Ceres</hi> ſonne in law deſcend.</l>
+            </q>
+            <p>Herein you may obſerve how juſt are all the works, and how conſtant are the wayes of God, their Father <hi>Henry</hi> the ſe<g ref="char:EOLhyphen"/>cond of France promiſed his Father on his death-bed, that he would make no more warre with the Proteſtants, nor be the occaſion of any more effuſion of blood in France for Re<g ref="char:EOLhyphen"/>ligion, but ſoon after his death, forgetting his Covenant with the dead, and overcome with the evill counſell of his Queen, the warre began anew, and the old wounds being opened, the land again did ſweat with blood. But marke the event, this <hi>Henry</hi> being afterwards at a Turnament, in which him<g ref="char:EOLhyphen"/>ſelfe would be a tilter, he was ſtruck through the eye with the ſplinter of a ſpeare, of which not long afterwards hee dyed.</p>
+            <p>His ſonnes <hi>Charles</hi> and <hi>Francis</hi> miſerably ended their contracted dayes by a terrible evacuation of blood, the wit of Iuſtice puniſhing that blood in their bodies which they had cauſed to iſſue out of the body of the Kingdom. <hi>Hen<g ref="char:EOLhyphen"/>ry</hi> the third a great contriver of that moſt horrid maſſacre, and Author of much Proteſtant bloodſhed at the battels of <hi>Dreux</hi>
+               <pb n="4" facs="tcp:118555:4"/>
+and <hi>Moncontour,</hi> was killed afterwards himſelfe by a Friar, and both the Murder and the Murderer commended by <hi>Xiſtus</hi> then Pope of Rome, neither of ſuch faire hopes of poſterity was there any one left, of the great and glorious name of <hi>Valois</hi> to ſucceed in the Kingdom of France. I have obviouſly inſerted this, that the world might take notice how deere unto God is the ſafety of his people, and that he hath pacified the crying blood of the Proteſtants with the deſtruction of the families of the Monarchs of the earth. If you would give me the reading of it, I could furniſh your obſervation with another ſtory, which becauſe it is very me<g ref="char:EOLhyphen"/>morable I will here inſert it, and then returne from whence a little I have digreſſed.</p>
+            <p>
+               <hi>Henry</hi> the third being ſlaine, the Crowne of France was devolved unto <hi>Henry</hi> of <hi>Burbon</hi> King of <hi>Navarre,</hi> who had married <hi>Margaret</hi> ſiſter to <hi>Henry</hi> the third, ſhe was a Lady of a delicate conſtitution both of mind and body, and admi<g ref="char:EOLhyphen"/>rable for her vertues and her vices, who finding that the Peers of France had eſtranged their hearts and their loyalties from her husband by reaſon of his religion, ſhe perſwaded him for the aſſurance of his Crowne, and the ſafety of his perſon, to turn Catholick again; which indeed once before he did, which was at the maſſacre of Saint <hi>Bartholomews,</hi> ſome 3 or 4 dayes after the ſolemnization of his marriage. But though that ſu<g ref="char:EOLhyphen"/>perſtition be blind, what cannot the Ieſuits ſee? They conceiv<g ref="char:EOLhyphen"/>ing that this alteration of his Religion was but diſſolation in the King, they corrupted a villain with gold and the certainty of ſalvation, (as if the way to heaven was by murder) to de<g ref="char:EOLhyphen"/>ſtroy him; this deſperate caitiff (under the pretence of private buſineſſe of great importance) having paſſed the guards had acceſſe unto his Majeſty, and finding him on the top of the ſtaires ſtooping, and prepared to liſten to him, hee ſtruck at
+<pb n="5" facs="tcp:118555:4"/>
+his breſt with his knife, and miſſing it by a more merci<g ref="char:EOLhyphen"/>full errour, he ſtruck his knife through his lip againſt his teeth. The villaine apprehended and the tumult appeaſed, a great Perſonage ſtanding neare unto his Majeſty, ſaid unto him, Sir, <hi>You have denied God in your mouth, and now you feele he hath ſtruck you in the mouth, I muſt beſeech your Maieſty to conſider of it, and not deny him in your heart, leaſt he ſhould ſtrike you through the heart.</hi> Many yeares after this were paſſed away, and the King oftentimes in his mirth a<g ref="char:EOLhyphen"/>mongſt other doubts would deſire to bee ſatisfied in his knowledge of what Religion he himſelfe was, and ſurely at the conference betwixt the Cardinall <hi>Du Peron,</hi> and <hi>Mon<g ref="char:EOLhyphen"/>ſieur Du Pleſsis,</hi> it ſeems that he was more addicted to the Cardinalls part; howſoever not long after (it is too well known,) that paſſing through the ſtreet in his <hi>Caroach,</hi> hee was ſtruck quite through the heart with <hi>Ravilliacs</hi> knife. The hearts of Princes are in the mercifull hands of God, who by vile Agents can deprive them of their temporall Crownes, to crowne them with glory and happineſſe for evermore; how<g ref="char:EOLhyphen"/>ſoever this is a true and a ſad relation, and of great uſe and conſequence in all ages, if it preciſely be conſidered.</p>
+            <p>I will not trouble you with a further repetition, how often in Queen <hi>Elizabeths</hi> dayes the Spaniſh faction by Warre, by Ieſuites, and by ſome great though diſaffected perſonages at Court did advance it ſelf, and how often it was ſuppreſſed. VVhat title the Spaniard pretended to the Crowne, even in the evening of her raigne is ſufficiently knowne and anſwe<g ref="char:EOLhyphen"/>red. I will paſſe therefore to the beginning of King <hi>Iames</hi> his dayes, who although hee was a moſt wiſe and knowing Prince, the Spaniſh faction found then a greater power to act their deſignes, and Hiſtorians a leſſer liberty to expreſſe them: Almoſt at his very entrance into this Kingdome, an
+<pb n="6" facs="tcp:118555:5"/>
+impudent and wilde Petition was contrived by Father <hi>Gar<g ref="char:EOLhyphen"/>net</hi> and other Prieſts and Ieſuites, for a tolleration of Reli<g ref="char:EOLhyphen"/>gion and preferred to his Majeſty, but adviſedly rejected, up<g ref="char:EOLhyphen"/>on Arch Biſhop <hi>Abbots</hi> grave counſell to the King; upon this deniall their Faction growing deſperate, they enterpriſed (by the advice of the ſaid Father <hi>Garnet</hi>) the Gunpowder treaſon, for which how farre they dived into Hell for coun<g ref="char:EOLhyphen"/>ſaile, the Devils themſelves can witneſſe. Not long before in eighty eight, they practiſed on the water to overthrow us, and now (as if they would make all the Elements acceſſary to our deſtruction) they contrived in the Earth by fire, to blow us up into the Ayre. And indeed it is no wonder they ſhould ſo much practiſe with fire, and be ſo guilty of it, who are themſelves the fire brands of Hell. One would have thought that ſuch a deſperate and ſo matchleſſe a deſigne, upon King, Peers, Kingdome and people, ſhould have produced the exe<g ref="char:EOLhyphen"/>cution of ſome Law, for the utter extirpation of all Papiſts, and their Ieſuiticall adherents; but unfortunately ſuch was then the intereſt with forraign Princes and the King of Spain, the entertainment of whoſe Pentioners, being ſome of our Nobility and Church Papiſts, came to no leſſe then three thouſand or four thouſand pound a yeare, that after execution done upon a few, the further proſecution of the Law did ceaſe; Nay ſo prevalent was this Spaniſh Faction with King <hi>Iames,</hi> that by many impertinent ſollicitations, they induced him to condiſcend to many things, which have proved ſince very prejudiciall to him, his Royall progeny, the Peace of his Kingdome, and the Proteſtant Religion then eſtabliſhed. For in the firſt place, his Majeſty was drawne to conclude a Peace with Spain, the moſt diſadvantageous to this King<g ref="char:EOLhyphen"/>dom that ever was; for by it no Engliſh were permitted to trade into the Weſt Indies, and if any did adventure ſo to do,
+<pb n="7" facs="tcp:118555:5"/>
+he was to be hanged and tortured without mercy; from hence it came to paſſe, that the Engliſh who had reſol<g ref="char:EOLhyphen"/>ved with the Netherlands for the ſending of ten thouſand men between them into thoſe parts, were ſo deterred as that our friends the Netherlanders were left to ſhift for themſelves; who now have gotten ſo great a footing in Braſile (which is not the tenth part of America, yet big<g ref="char:EOLhyphen"/>ger in ſcituation then three times England) that the Spa<g ref="char:EOLhyphen"/>niard will never be able to remove them thence. And while the Engliſh for many yeares ſare ſtill, the King of Spain hath beene ſo well inabled by the vaſt treaſures that came from thence, to make full and due payment to his Ieſuiticall Factors here, as that they ever ſince have performed moſt faithfull ſervice to him. And leſt any thing ſhould be wanting to the Catholicke King underta<g ref="char:EOLhyphen"/>king the Catholick Cauſe, they perſwaded King <hi>Iames</hi> to arme the King of Spain with two thouſand Peeces of Ord<g ref="char:EOLhyphen"/>nance, under colour of which licence, Sir <hi>Iohn Ieme</hi> tranſ<g ref="char:EOLhyphen"/>ported twice as many, what others did is not well known, but it is conceived by able judgements, that if the King of Spain were as well prepared with men and ſhipping, as he is with Guns and Ammunition, he might beat us with our own weapons. And thus from one degree to another, they have ſtill incroached on His Majeſty. After this, with might and main they laboured for; and cried up his bound<g ref="char:EOLhyphen"/>leſſe prerogative, a thing which Princes are generally over much delighted to hear, and by this his Majeſtie was drawn at laſt to diſaffect Parliaments, as intrenching too much upon His Royall Prerogative, and regulating the Regall power, which never ought to exceed Law, but when it rendeth to the relief of the ſubject in mitigating
+<pb n="8" facs="tcp:118555:6"/>
+the rigour of it, and not by impoveriſhing the Subjects, and oppreſſing them with illegall Monopolies and unwar<g ref="char:EOLhyphen"/>rantable taxations, which by wofull experience this mi<g ref="char:EOLhyphen"/>ſerable Kingdome hath too long felt and groaned under the burthen of them.</p>
+            <p>Many more particulars may be alledged, as the prevail<g ref="char:EOLunhyphen"/>ing power they had with King <hi>Iames,</hi> when (upon the motion of <hi>Gondamore</hi>) his Majeſty neglected the proffer of ſome German Princes, and condiſcended to ſend his ſon and heir into Spain, for the contract of a marriage with the King of Spains ſiſter, and one of a contrary Religion, which had it accordingly proceeded, it might have proved as prejudiciall and troubleſome, as the marriage with France.</p>
+            <p>But the proceedings of the Spaniſh Faction ſince the acceſſe of His Majeſty that now is unto the Crowne, I need not recite at large, they are all within your owne memory, yet for your better ſatisfaction, I cannot but report ſome few particulars. The firſt is, of the laying of their foundation at the Conclave at Rome, where it was concluded, that his Holineſſe ſhould have a Nuntio in England, and the Queen of England ſhould have an A<g ref="char:EOLhyphen"/>gent at Rome, to act things here as ſhould be there reſol<g ref="char:EOLhyphen"/>ved on. Another was to perſwade his Majeſty by media<g ref="char:EOLhyphen"/>tion of the Queen (whom they too well knew and ſaw that he entirely loved) to prefer thoſe to dignities and Courts of judicature, who might ſerve beſt to put in execution their miſchievous deſignes, whereby it moſt unhappily came to paſſe that the Spaniſh Faction became the Cabi<g ref="char:EOLhyphen"/>net Councellors, ſo over-awing and over-ſwaying the greater and better part of the privie Councell, that their
+<pb n="9" facs="tcp:118555:6"/>
+meer propoſals paſt for reſolutions, and hence it was that the Starchamber (where theſe and they whom theſe promoted and countenanced did bear the greateſt ſway) did abound with extravagant Cenſures, no leſſe uncon<g ref="char:EOLhyphen"/>ſcionable then terrible, by oppreſsing the common people and maintaining illegall taxations, and inducing Preroga<g ref="char:EOLhyphen"/>tives far beyond the preſidents of all former times, and ſurely had it not been for thoſe exceeding powerfull Po<g ref="char:EOLhyphen"/>piſh factors, the high Commiſsion had not decreed ſo ea<g ref="char:EOLhyphen"/>gerly to oppoſe true Religion, by Suſpenſion, deprivation, Excommunication, Fines and impriſonment, much leſſe ſome Biſhops and inferior Eccleſiaſticall Courts, had not adventured with ſuch animoſity to propoſe, or with ſuch violence to proſecute their own ſuperſtitious articles, as if they had bin Canons concluded on by the whole Church of England, or as if the Articles of theſe men which conſi<g ref="char:EOLhyphen"/>ſted only of Biſhops, Deans, Archdeacons, &amp;c. (as every Biſhop or ſlye Officiall thought good) ought to binde the the whole Church being ſo partially, if not corruptly re<g ref="char:EOLhyphen"/>preſented. For are Cathedral Churches any other but ſuch places which Queen <hi>Elizabeth</hi> and her Councell for ſome political ends, were pleaſed to let reſt in ſome part of that popiſh ſplendor and magnificence which might take with the neighboring Princes of the contrary Religion, and not render her and her people utterly reconcileable to the Church of Rome. The Parochiall Churches then were better cleanſed from Popiſh Reliques, according to the well ſetled conſtitution of other reformed Churches, and now forſooth better refined Parochiall Churches muſt a<g ref="char:EOLhyphen"/>gain be reduced to a Cathedrall garbe, becauſe it is more ceremonious and majeſticall, and therein more reſembleth Rome.</p>
+            <p>
+               <pb n="10" facs="tcp:118555:7"/>Thus with the overſwelling greatneſſe of thoſe cabinet Councellours, men were preferred to places of Iudica<g ref="char:EOLhyphen"/>ture in the Common wealth, which (I ſuppoſe) either could not or would not maintain Iuſtice, but were alwaies forced to advance prerogative above and againſt Law, the ſubiects by many woefull complaints can witneſſe how many millions of monies in few yeares have been wreſted from them under the name of Lone, Knighthood, Shipmony, &amp;c. all which though unlawfull, yet were they either juſtified by the moſt part of the Iudges, and the people miſerably oppreſſed.</p>
+            <p>The next plot which they no leſſe endeavoured then obtained, was to weaken his Majeſty both at home and a<g ref="char:EOLhyphen"/>broad, and indeed which way could they weaken him more in England, then to imploy the cabinet counſell to perſwade him to make ſale of his own proper hereditary land, and ſo without Parliaments to raiſe mony for the ſupporting of his royall dignity by unlawfull and unuſuall meanes, which could not but much withdraw the dutifull affection of the ſubiect from him, wherein his chiefeſt ſtrength conſiſted, and how could they have deviſed more to leſſen the reputation of his wiſdome and puiſſance with forraign Princes then by inciting his Maieſty (as if hee had married the conditions as well as the daughter of France) to begin a warre with Spaine, and then to con<g ref="char:EOLhyphen"/>clude it partly without, and partly againſt the approbati<g ref="char:EOLhyphen"/>on of the Parliament, and ſo afterwards to France it ſelfe.</p>
+            <p>To this may be added the taking of Rochell, for all the ayde of his Maieſties ſhips; the little aſſiſtance and coun<g ref="char:EOLhyphen"/>tenance which of late times hath been from England af<g ref="char:EOLhyphen"/>forded
+<pb n="11" facs="tcp:118555:7"/>
+to the Netherlands, and from all their premiſes it may be concluded, that there were all deſtructive wayes to the Proteſtant Religion, and therefore promoted and proſecuted by great perſons Popiſhly addicted to the ruine of our Peace, our Lives, Liberties, and (which is yet much dearer to us) our Religion. Was the plot ſmall may we think by billetting of ſouldiers in all parts of this Kingdome, by intending to bring in forraign forces, eſpe<g ref="char:EOLhyphen"/>cially many hundred of German horſe, and by propoſing Martiall law to be put into execution, which now we ſee to take effect, yet it was under pretence of law, when there was neither Reaſon, Law, nor Equity for the raiſing of forces or any ſuch great ſummes of mony as there was raiſed, which yet had they been imployed in any reaſo<g ref="char:EOLhyphen"/>nable proportion for the good of the King or Kingdome, neither King nor Kingdome had been ſo diſtreſſed as now they are, but the truth is, as ſuch vaſt ſummes were ille<g ref="char:EOLhyphen"/>gally extorted, ſo they were as fraudulentally diſpoſed without his Maieſties privity, even to the ſtrengthening of the profeſſed enemies of our Religion, which now threaten the ſubjugation, if not the utter extirpation of it.</p>
+            <p>The next plot was for braſſe mony, and the making of it currant, whilſt the French of all other nations were permitted to carry our gold and ſilver, away, were they of what Sexe, Age, or condition ſoever. How much the Queen Mother had for her part is not, nor ever will bee certainly knowne, but, it is conceived upon very good ground, that ſhe and her Ieſuiticall traine have had two millions of mony, which is tenne times as much, as the Queen her daughter brought into this land; and if this hath not been a heavie burthen to poore England, let all
+<pb n="12" facs="tcp:118555:8"/>
+men Iudge. But this is not all, have not the Ieſuites had free egreſſe and regreſſe and intimate acquaintance, with <hi>Canterbury, Wren,</hi> and the reſt of the Popiſh Biſhops, whereby they procured the diſcountenancing, yea the ſuppresſing of the moſt able and faithfull Divines and Mi<g ref="char:EOLhyphen"/>niſters of the Goſpell, when in the mean time who were advanced and put into places of truſt or preferment, but Arminians, and Socinians, whoſe poyſenous tenents in ſome and many things are ſteps to Rome, in others more dangerous as being more ſubtilly contrived.</p>
+            <p>We cannot here omit (by their inſtigation) the recei<g ref="char:EOLhyphen"/>ving into favour of many great Delinquents who fled from the Iuſtice of the Parliament: the ceſſation of Armes in Ireland to bring over the warre and Popery in<g ref="char:EOLhyphen"/>to England; the Queens negotiation beyond the Seas, for the continuance and fomenting this unnaturall warre, partly in her owne perſon, and partly by her ſeconds. And to this end the pawning of the Iewels of the Crowne. The ſeverall plots daily contrived to corrupt our ſoldiers, citizens, nay even our Divines themſelves, all which are unquiet and dangerous iſſues and effects of the French and Spaniſh Counſells.</p>
+            <p>And now (when they can proceed no further in their miſchievous devices) they indeavoured to continue the laſt and worſt of all, which is ſtill managed by the help of their old ſure freinds who are ſo gracious at Court, and that is the ſeparating of his Maieſty from his high Cour<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap> of Parliament, and in keeping him from them, as alſo in cauſing an ill opinion in ſome people and Counties a<g ref="char:EOLunhyphen"/>gainſt their own repreſentative body ſo adviſedly now a<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                  <desc>•</desc>
+               </gap>
+               <g ref="char:EOLunhyphen"/>ſembled, and at firſt aggregated from all ſhires. And in<g ref="char:EOLunhyphen"/>deed
+<pb n="13" facs="tcp:118555:8"/>
+of all other practices this is moſt fearfull, deſtru<g ref="char:EOLhyphen"/>ctive, and the moſt deſperate, for who could imagine (did it not evidently appeare) that the Papiſts both of the French and Spaniſh faction ſhould have ſuch an influence on his Majeſty, as to make him beleive that his Parlia<g ref="char:EOLhyphen"/>ment is ſet againſt him and the good of the land, and that <hi>Privadoes</hi> and <hi>Sycophantes</hi> at Court are better affected and more able to ſeek for the good and ſafety of the King and Kingdome then they are, as if it were probable the wiſdome, and till now the never ſuſpected integrity of both the Houſes of Parliament, by which the King and Kingdome have alwayes flouriſhed could ever prove ſo treacherous to King or Kingdome, or be ſo careleſſe of themſelves and their poſterity as to doe things diſhoneſt and treaſonable, or if it were poſſible that men for the moſt part who were never greatly intruſted by his Maie<g ref="char:EOLhyphen"/>ſty, or the State, ſhould bee able to give more faithfull Counſell, or be leſſe ſubiect to erroneous advices then they are, who now ſit in our high Court of Parliament. Surely as after many ſtorms at ſea, wee now begin to ſee the day and land again, ſo great thanks for their pains, pru<g ref="char:EOLhyphen"/>dence and patience is to be given to God by us, to whom (no doubt) the benefit will redound.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+      <back>
+         <div type="license">
+            <pb facs="tcp:118555:9"/>
+            <p>This is Licenſed and entred into the Regiſter Book of Stationers Hall.</p>
+            <pb facs="tcp:118555:9"/>
+         </div>
+      </back>
+   </text>
+</TEI>
